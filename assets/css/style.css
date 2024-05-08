@@ -224,7 +224,7 @@ header nav ul {
 
 .form .full-form input {
   display: inline-block;
-  width: 50%;
+  width: 65%;
   padding: 10px;
   margin-top: 10px;
   border-radius: 10px;
@@ -297,6 +297,12 @@ footer {
 .footer-social ul li a {
   color: #fff;
   text-decoration: none;
+}
+.footer-social .fa-brands {
+  padding-right: 20px;
+}
+.footer-social .fa-twitter a {
+  padding-right: 10px !important;
 }
 
 .footer-links ul li a:hover,
